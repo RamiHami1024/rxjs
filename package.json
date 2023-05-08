@@ -1,0 +1,25 @@
+{
+  "name": "rxjs-ts-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizen24/rxjs-ts-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denizen24/rxjs-ts-starter/issues"
+  },
+  "homepage": "https://github.com/denizen24/rxjs-ts-starter#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "babel": "^6.23.0",
+    "rxjs": "^7.8.1"
+  }
+}
